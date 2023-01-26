@@ -145,10 +145,11 @@ I design in Autodesk Inventor 2022
 Затяните весь крепёж. Без фанатизма) Детали пластиковые. Лучше добавьте синий фиксатор резьбы.
 
 
-
 ### МОТОРЫ
+
 Есть два варианта расположения моторов 
-1. Снаружи 
+
+## Снаружи 
 
 В этом случае кронштейны разные. Печатать отдельно
 
@@ -160,8 +161,8 @@ I design in Autodesk Inventor 2022
 
 [Console_right_motor](https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/STEPs/Console_right_motor.stp)
 
+## Внутри 
 
-3. Внутри 
 В этом слусае кронштейны одинаковые с права и лева. Один монтируется ниже другого. Печаталь зеркально.
 
 <img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/image/Assembly_with_motors_inside.jpg
