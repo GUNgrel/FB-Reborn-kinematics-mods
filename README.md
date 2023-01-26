@@ -163,7 +163,7 @@ I design in Autodesk Inventor 2022
 
 ## Внутри 
 
-В этом слусае кронштейны одинаковые с права и лева. Один монтируется ниже другого. Печаталь зеркально.
+В этом слусае кронштейны одинаковые с права и лева. Один монтируется ниже другого. Печаталь зеркально на поддержках. 
 
 <img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/image/Assembly_with_motors_inside.jpg
  width="700" height="400">
