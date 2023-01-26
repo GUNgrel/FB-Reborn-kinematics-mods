@@ -1,1 +1,119 @@
-# FB-Reborn-kinematics-mods
+<br/>
+<p align="center">
+  <a href="https://github.com/GUNgrel/FB-Reborn-kinematics-mods">
+    <img src="https://www.clipartkey.com/mpngs/m/230-2307704_mechanical-engineering-png-1-png-image-mechanical.png" width="250" height="200">
+  </a>
+
+  <h3 align="center">Flying Bear Reborn Kinematics mod</h3>
+
+  <p align="center">
+    <a href="https://github.com/GUNgrel/FB-Reborn-kinematics-mod"><strong>ВСЕ ФАЙЛЫ ПРОЕКТА</strong></a>
+    <br/>
+    <br/>
+  </p>
+</p>
+
+## О проекте
+
+  <img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20V0%2C1.1.jpg width="700" height="400">
+
+
+Я очень давно хотел перейти на своём 3д принтере Flying Bear Reborn на рельсы MGN12 и ремни 10 мм, но все существующие проекты так или иначе меня не устраивали.
+Поэтому я решил создать собственный проект комплексной замены кинематики по осям Х и У. 
+Так сказать "с преферансом и куртизанками" 
+
+## Программное обеспечение
+
+I design in Autodesk Inventor 2022
+
+## С чего начать...
+
+### Что вам понадобится для сборки этого мода:
+
+ ИНСТРУМЕНТЫ
+1. Немного прямых рук)
+2. Минимальный набор шестигранников.
+3. Мини УШМ или ножовка по металлу.
+4. Дрель и сверло 3(3.2) и 6 мм.
+  
+ ПОКУПКИ
+
+   1. [ВЕДОМОСТЬ ПОКУПНЫХ ИЗДЕЛИЙ](https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Purchase_list.xlsx) 
+
+   2. [ВЕДОМОСТЬ КРЕПЁЖНЫХ ИЗДЕЛИЙ](https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Screws_and_nuts.xlsx)
+
+### СБОРКА
+
+Сборка надо начинать с печати всех или нужны вам деталей.
+
+Если у вас уже установлены рельсы снизу профилей, то проставки для рельс MGN12 печатать не надо.
+
+1. Балка У.
+
+Для определения сторон – принтер ориентирован при просмотре моторами к зрителю.
+
+Для сборки балки У
+
+Вместо карбоновой трубы возможно использовать профиль 2020.
+
+1.	Если вы используете карбоновую квадрат трубу, то в ней необходимо пропилить с торцов паз шириной 6 мм и длиной 25мм. 
+
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/8.jpg width="700" height="400">
+
+Просверлите отверстия крепления рельсы к балке, используя рельсу для разметки (можно крепить через одно отверстие). 
+
+Для крепления рельсы распечатайте полосу под гайки М3 - nut strip for MGN9 rail. 
+
+Если используете рельсу MGN12 то полоса под гайки - nut strip for MGN12 rail.
+
+Вместо карбоновой трубы возможно использовать профиль 2020.
+
+2.	Далее собираете кронштейны балки. Правый кронштейн имеет отверстия для крепления флажков концевиков Х и У. 
+
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/15.jpg width="700" height="400">
+
+Левый кронштейн без отверстий под флажки концевиков 
+
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/16.jpg width="700" height="400"> 
+
+
+Для сборки кронштейнов понадобятся детали:
+
+Штифт 5х30 (резьба М3 с двух сторон) – 6шт
+
+Подшипники F695ZZ -  8 шт
+
+Подшипник 695ZZ – 4 шт.
+
+Винт М3х12 – 12 шт.
+
+Винт М4х50 – 4 шт.
+
+Шайбы М3- 24 шт.
+
+Шайбы М4- 8 шт.
+
+Гайки М4 самоконтрящиеся – 4 шт.
+
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20console%20beam%20Y.jpg  width="700" height="400">
+
+Подробнее смотри файл сборки -  [Assembly console beam Y](https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20console%20beam%20Y.stp)
+
+
+3.	Сборка балки Y
+
+Вставьте балку с рельсой в кронштейны. Винты М4 затягивать после установки на рельсы MGN12 и выставления перпендикулярности. 
+
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20beam%20Y.jpg  width="700" height="400">
+
+Подробнее смотри файл сборки - [Assembly beam Y](https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20beam%20Y.stp)
+
+
+
+
+
+
+
+## Автор
+
+* **Alexey Khripyakov** - *Engineer constructor* - [Telegram](https://t.me/gungrel)
