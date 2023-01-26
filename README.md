@@ -19,7 +19,7 @@
 
 
   Я очень давно хотел перейти на своём 3д принтере Flying Bear Reborn на рельсы MGN12 и ремни 10 мм, но все существующие проекты так или иначе меня не устраивали.
-Поэтому я решил создать собственный проект комплексной замены кинематики по осям Х и У. 
+Поэтому я решил создать собственный проект комплексной замены кинематики по осям Х и У.
   Так сказать "с преферансом и куртизанками" 
   
   Данный проект предуматривает установку головы от [Ruslan P](https://t.me/pavluchenkor) - [Бшня Микшки](https://github.com/pavluchenkor/BearTower)
@@ -146,8 +146,28 @@ I design in Autodesk Inventor 2022
 
 
 
+### МОТОРЫ
+Есть два варианта расположения моторов 
+1. Снаружи 
+
+В этом случае кронштейны разные. Печатать отдельно
+
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/image/Assembly_motors_out_side_L.jpg width="700" height="400">
+
+[Console_left_motor](https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/STEPs/Console_left_motor.stp)
+
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/image/Assembly_motors_out_side_R.jpg width="700" height="400">
+
+[Console_right_motor](https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/STEPs/Console_right_motor.stp)
 
 
+3. Внутри 
+В этом слусае кронштейны одинаковые с права и лева. Один монтируется ниже другого. Печаталь зеркально.
+
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/image/Assembly_with_motors_inside.jpg
+ width="700" height="400">
+ 
+[Console_moto_inside](https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/STEPs/Console_moto_inside.stp)
 
 
 
