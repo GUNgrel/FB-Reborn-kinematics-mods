@@ -4,10 +4,10 @@
     <img src="https://www.clipartkey.com/mpngs/m/230-2307704_mechanical-engineering-png-1-png-image-mechanical.png" width="250" height="200">
   </a>
 
-  <h3 align="center">Flying Bear Reborn Kinematics mod</h3>
+  <h3 align="center">Flying Bear Reborn Kinematics mods</h3>
 
   <p align="center">
-    <a href="https://github.com/GUNgrel/FB-Reborn-kinematics-mod"><strong>ВСЕ ФАЙЛЫ ПРОЕКТА</strong></a>
+    <a href="https://github.com/GUNgrel/FB-Reborn-kinematics-mods"><strong>ВСЕ ФАЙЛЫ ПРОЕКТА</strong></a>
     <br/>
     <br/>
   </p>
@@ -15,7 +15,7 @@
 
 ## О проекте
 
-  <img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20V0%2C1.1.jpg width="700" height="400">
+  <img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/image/Assembly%20V0%2C1.1.jpg width="700" height="400">
 
 
 Я очень давно хотел перейти на своём 3д принтере Flying Bear Reborn на рельсы MGN12 и ремни 10 мм, но все существующие проекты так или иначе меня не устраивали.
@@ -38,9 +38,9 @@ I design in Autodesk Inventor 2022
   
  ПОКУПКИ
 
-   1. [ВЕДОМОСТЬ ПОКУПНЫХ ИЗДЕЛИЙ](https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Purchase_list.xlsx) 
+   1. [ВЕДОМОСТЬ ПОКУПНЫХ ИЗДЕЛИЙ](https://github.com/GUNgrel/FB-Reborn-kinematics-mods/raw/main/XLS/Purchase_list.xlsx) 
 
-   2. [ВЕДОМОСТЬ КРЕПЁЖНЫХ ИЗДЕЛИЙ](https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Screws_and_nuts.xlsx)
+   2. [ВЕДОМОСТЬ КРЕПЁЖНЫХ ИЗДЕЛИЙ](https://github.com/GUNgrel/FB-Reborn-kinematics-mods/raw/main/XLS/Screws_and_nuts.xlsx)
 
 ### СБОРКА
 
@@ -58,7 +58,7 @@ I design in Autodesk Inventor 2022
 
 1.	Если вы используете карбоновую квадрат трубу, то в ней необходимо пропилить с торцов паз шириной 6 мм и длиной 25мм. 
 
-<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/8.jpg width="700" height="400">
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/raw/main/image/8.jpg width="700" height="400">
 
 Просверлите отверстия крепления рельсы к балке, используя рельсу для разметки (можно крепить через одно отверстие). 
 
@@ -70,11 +70,11 @@ I design in Autodesk Inventor 2022
 
 2.	Далее собираете кронштейны балки. Правый кронштейн имеет отверстия для крепления флажков концевиков Х и У. 
 
-<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/15.jpg width="700" height="400">
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/raw/main/image/15.jpg width="700" height="400">
 
 Левый кронштейн без отверстий под флажки концевиков 
 
-<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/16.jpg width="700" height="400"> 
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/raw/main/image/16.jpg width="700" height="400"> 
 
 
 Для сборки кронштейнов понадобятся детали:
@@ -95,18 +95,18 @@ I design in Autodesk Inventor 2022
 
 Гайки М4 самоконтрящиеся – 4 шт.
 
-<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20console%20beam%20Y.jpg  width="700" height="400">
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/image/Assembly%20console%20beam%20Y.jpg width="700" height="400">
 
-Подробнее смотри файл сборки -  [Assembly console beam Y](https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20console%20beam%20Y.stp)
+Подробнее смотри файл сборки -  [Assembly console beam Y](https://github.com/GUNgrel/FB-Reborn-kinematics-mods/raw/main/STEPs/Assembly_console_beam_Y.stp)
 
 
 3.	Сборка балки Y
 
 Вставьте балку с рельсой в кронштейны. Винты М4 затягивать после установки на рельсы MGN12 и выставления перпендикулярности. 
 
-<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20beam%20Y.jpg  width="700" height="400">
+<img src=https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/image/Assembly%20beam%20Y.jpg  width="700" height="400">
 
-Подробнее смотри файл сборки - [Assembly beam Y](https://github.com/GUNgrel/FB-Reborn-kinematics-mod/raw/main/Assembly%20beam%20Y.stp)
+Подробнее смотри файл сборки - [Assembly beam Y](https://github.com/GUNgrel/FB-Reborn-kinematics-mods/raw/main/STEPs/Assembly_beam_Y.stp)
 
 
 
