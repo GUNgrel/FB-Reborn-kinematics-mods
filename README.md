@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/GUNgrel/FB-Reborn-kinematics-mods">
-    <img src="https://www.clipartkey.com/mpngs/m/230-2307704_mechanical-engineering-png-1-png-image-mechanical.png" width="250" height="200">
+    <img src="https://github.com/GUNgrel/FB-Reborn-kinematics-mods/blob/main/image/logo.jpg" width="1200" height="400">
   </a>
 
   <h3 align="center">Flying Bear Reborn Kinematics mods</h3>
